@@ -1,0 +1,14 @@
+{
+  "name": "mysql",
+  "version": "1.0.0",
+  "description": "curso de mysql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mysql"
+  ],
+  "author": "Fabio Rojas",
+  "license": "MIT"
+}
